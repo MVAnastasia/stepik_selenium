@@ -1,1 +1,1 @@
-# stepik_selenium
+# tests_stepik_selenium
